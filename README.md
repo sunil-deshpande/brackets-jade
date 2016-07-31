@@ -1,7 +1,8 @@
-# JADE2HTML Brackets extension
+#  Brackets extension for JADE to HTML conversion.
 
-This brackets extension allows user to compile jade to html. Two options can be passed to extension using .brackets.json, the brackets project file.
-format of options to be passed from project file are as follows.
+This brackets extension allows user to compile jade(pug) to html on saving the document. Two options, output directory and pretty outotput, can be passed
+to extension using .brackets.json, the brackets project file. format of options to be passed from project file are as follows. This extension uses node.js
+jade module. 
 <br>
 Below is sample for project structure
 <pre>
