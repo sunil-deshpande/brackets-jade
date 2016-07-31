@@ -1,5 +1,5 @@
 {
-  "name": "jade4brackets",
+  "name": "brackets-jade",
   "version": "0.0.2",
   "description": "Jade to html convert, Compile on save, a brackets extension",
   "main": "main.js",
